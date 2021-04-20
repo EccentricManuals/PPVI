@@ -1,0 +1,13 @@
+#PHP Settings
+php_modules: [ 'php', 'php-curl', 'php-gd', 'php-mbstring', 'php-xml', 'php-xmlrpc', 'php-soap', 'php-intl', 'php-zip' ]
+ 
+#MySQL Settings
+mysql_root_password: "Fullsail!1"
+mysql_db: "wpdb"
+mysql_user: "wordpress"
+mysql_password: "Fullsail!1"
+ 
+#HTTP Settings
+http_host: "wp.aaa.com"
+http_conf: "wp.aaa.com.conf"
+http_port: "80"
